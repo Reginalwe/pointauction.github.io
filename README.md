@@ -1,4 +1,4 @@
 # pointauction.github.io
 
-auction on streamelements points
-Аукцион на баллах streamelements
+auction on streamelements points 
+  Аукцион на баллах streamelements
